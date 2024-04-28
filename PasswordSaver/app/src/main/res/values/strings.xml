@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">PASS REM</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_the_password">Enter the password</string>
+    <string name="enter_the_username">Enter the username</string>
+    <string name="login_here">LOGIN HERE</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="register_here">Register Here</string>
+    <string name="re_enter_the_password">Re-Enter the password</string>
+    <string name="register">Register</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email_id">Email id</string>
+    <string name="retype_password">Retype Password</string>
+    <string name="password">Password</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="signup">Signup</string>
+    <string name="signupp">SIGNUP</string>
+    <string name="already_have_an_account">Already have an Account?</string>
+    <string name="loginn">Login</string>
+    <string name="don_t_have_an_account">Don\'t have an Account ?</string>
+    <string name="title_activity_tabbedview">tabbedview</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_activity_screen2">Screen2</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="name">Name</string>
+    <string name="enter_the_email_id">Enter the Email id</string>
+    <string name="if_exists">" IF EXISTS"</string>
+</resources>
